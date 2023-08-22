@@ -1,1 +1,3 @@
 git fetch,pull,clone
+
+added a new line and using the git fetch command in the git bash
